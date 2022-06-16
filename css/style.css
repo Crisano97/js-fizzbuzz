@@ -5,5 +5,35 @@ div.col-2.box{
     font-size: 2rem;
     font-weight: bolder;
     text-align: center;
+    color: white;
+    margin-right: 10px;
 }
 
+.m_fs {
+    font-size: 3rem;
+}
+
+.m_bg_1 {
+    background-color: darkred
+}
+
+.m_bg {
+    background-color: lightcoral;
+    border-radius: 20px;
+}
+
+.bg_1 {
+    background-color: rgb(255, 0, 0);
+}
+
+.bg_2 {
+    background-color:rgb(255, 213, 0);
+}
+
+.bg_3 {
+    background-color: rgb(255, 156, 80);
+}
+
+.bg_4 {
+    background-color: rgb(162, 29, 29);
+}
