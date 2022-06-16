@@ -3,6 +3,13 @@
 // per i multipli di 5 stampi "Buzz" al posto del numero;
 // per i numeri che sono sia multipli di 3 che di 5 stampi "FizzBuzz";
 
-for ( let index=1; index <= 100; index++){
+for ( let index = 1; index <= 100; index++){
     console.log(index);
+
+    if ((index % 3) == 0) {
+        console.log("Fizz");
+    } else if ((index % 5) == 0) {
+        console.log("Buzz");
+    }
+    
 }
