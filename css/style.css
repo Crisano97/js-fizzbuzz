@@ -1,0 +1,9 @@
+div.col-2.box{
+    border-radius: 15px;
+    height: 4rem;
+    padding: .2rem;
+    font-size: 2rem;
+    font-weight: bolder;
+    text-align: center;
+}
+
